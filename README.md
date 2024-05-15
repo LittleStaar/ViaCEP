@@ -13,7 +13,11 @@ O objetivo desse projeto foi fazer uma página em HTML que quando o usuário col
 
 ## Autores
 <b>Aline Kettylen Oliveira da Silva
+
 Ana Carla Ferreira
+
 Camila Fernanda
+
 Larissa Fernanda
+
 Suellayne Silva</b>
